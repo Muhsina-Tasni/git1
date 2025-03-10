@@ -1,0 +1,95 @@
+/*author:Muhsina Tasni.C
+DATE:24/2/2025*/
+nav {
+    /* background-image: linear-gradient(to right top, #7070bd, #5e62ab, #4c5499, #3b4787, #293a76, #193468, #0a2e5a, #00284c, #00243b, #001e2a, #05181b, #0c0e0e)!important;*/
+    background-image: linear-gradient(to right top, #25272c, #1e3054, #0a387d, #003ca6, #2a3bcc);
+}
+
+body {
+    background-image: linear-gradient(to right top, #7070bd, #5e62ab, #4c5499, #3b4787, #293a76, #193468, #0a2e5a, #00284c, #00243b, #001e2a, #05181b, #0c0e0e);
+
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    /* font-weight:; */
+    font-style: normal;
+}
+
+
+.img-m img {
+    align-items: center;
+    width: 500px;
+    height: auto;
+
+}
+#home-section{
+    
+}
+#Home-section a img {
+    height: 20px;
+    width: auto;
+    margin: 5px;
+}
+
+#Skills-section li {
+
+    line-height:40px;
+
+}
+
+
+.nav-link:hover {
+    color: rgb(54, 54, 230) !important;
+    text-decoration: underline;
+    font-weight: 900;
+}
+
+.form-control {
+     background: transparent; 
+    border: 2px solid rgb(47, 47, 72);}
+   
+
+
+button {
+    background-image: linear-gradient(to right top, #2a3bcc, #003ca6, #0a387d, #1e3054, #25272c) !important;
+} 
+
+
+.button:hover {
+    background-color: #878ed2!important;
+}
+
+::placeholder {
+    color: white;
+}
+.card-title{
+    font-weight: bold;
+    text-decoration:underline!important;
+}
+.card {
+   margin-bottom:5px, !important;
+    height:350px;
+    background-image: linear-gradient(to right top, #25272c, #1e3054, #0a387d, #003ca6, #2a3bcc);
+} 
+
+
+footer {
+    /* background-image: linear-gradient(to right top, #25272c, #1e3054, #0a387d, #003ca6, #2a3bcc);*/
+    background-image: linear-gradient(to right top, #2a3bcc, #003ca6, #0a387d, #1e3054, #25272c);
+}
+
+input::-webkit-input-placeholder {
+    color: white !important;
+    font-size: 20px;
+}
+
+textarea::-webkit-input-placeholder {
+    color: white !important;
+}
+
+textarea::placeholder {
+    color: white;
+    font-size: 20px;
+}
+section{
+    padding-bottom:80px !important;
+}
